@@ -1,0 +1,99 @@
+body{
+    background-color: #FFE3E3;
+    text-align: center;
+    margin: 0px;
+
+}
+.static{
+    text-align: center;
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    background-color: #E6B2C6;
+}
+.home
+{
+    margin:  0 100px;
+    font-weight: bold;
+    color: white;
+}
+.about{
+    margin: 0px 100px ;
+    font-weight: bold;
+    color: white;
+}
+.first{
+    padding:10% 10%;
+    margin: 10px 10px;
+}
+.contact
+{
+   margin: 0 100px 0 ;
+   font-weight: bold;
+   color: white;
+}
+a{
+    text-decoration: none;
+    margin: 100px 20px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-weight: 400;
+}
+.portfolio{
+    width: 500px;
+    height: 600px;
+    margin-top: 90px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+    float: left;
+}
+.name
+{
+    color: #fa8072;
+    margin :0px 50px;
+    padding-top: 80px;
+    font-family: 'Sacramento', cursive;
+   font-size: 5rem;
+   font-weight: 300;
+   
+}
+.about-content
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.skills{
+    margin: 300px auto 0 auto;
+}
+h3{
+
+ color: #6C4A4A;
+ font-family: 'Sacramento', cursive;
+ font-size: 4rem;
+ font-weight: 300;
+}
+p{
+   margin: 50px auto;
+    width: 50%;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+.mic{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 0px;
+}
+.laptop{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 10px;
+}
+hr{
+    width: 10%;
+    border-style: dotted;
+    border-bottom: 0px;
+    border-color: gray;
+}
+h4{
+    font-family: 'Raleway', sans-serif;
+}
