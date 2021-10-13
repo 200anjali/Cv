@@ -79,12 +79,12 @@ p{
     font-family: 'Montserrat', sans-serif;
 }
 .mic{
-    width: 30%;
+    max-width: 30%;
     height: 30%;
     margin-bottom: 0px;
 }
 .laptop{
-    width: 30%;
+    max-width: 30%;
     height: 30%;
     margin-bottom: 10px;
 }
